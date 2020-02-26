@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 25 17:24:13 2020
 
-@author: shrik
-"""
 
 #!/bin/python3
 
