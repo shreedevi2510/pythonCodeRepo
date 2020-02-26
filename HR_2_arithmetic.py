@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 25 17:26:55 2020
 
-@author: shrik
-"""
 
 if __name__ == '__main__':
     a = int(input())
